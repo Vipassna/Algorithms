@@ -8,7 +8,7 @@ struct node *next;
 };
 int main()
 {
-struct node *heead=NULL;
+struct node *head=NULL;
 int count;
 count=0;
 generate(&head);
